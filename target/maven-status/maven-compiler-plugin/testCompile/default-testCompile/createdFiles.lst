@@ -1,0 +1,5 @@
+config\ProducerClientConfigTest.class
+utils\PemUtilsTest.class
+config\ConsumerClientConfigTest.class
+utils\ConsumerJwtUtilsTest.class
+utils\ProducerJwtUtilsTest.class

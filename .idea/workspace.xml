@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39073445-557c-490f-b9b6-1eff3c14fdf3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1w0QOkI18O42Ergm4EekGkvm821" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/utils" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jwt.demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="config" />
+      <recent name="com.jwt.demo.utils" />
+      <recent name="com.jwt.demo.exception" />
+      <recent name="com.jwt.demo.config" />
+      <recent name="com.jwt.demo.consumer.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspaces\Java_fnb_generic\jwt-demo\src\test\java\utils" />
+      <recent name="D:\workspaces\Java_fnb_generic\jwt-demo\src\test\java" />
+      <recent name="D:\workspaces\Java_fnb_generic\jwt-demo\src\main\java\com\jwt\demo\consumer" />
+      <recent name="D:\workspaces\Java_fnb_generic\jwt-demo" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39073445-557c-490f-b9b6-1eff3c14fdf3" name="Default Changelist" comment="" />
+      <created>1627592995271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627592995271</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1716" y="563" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1627593823514">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1716" y="563" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400/-1920.360.1536.824@0.0.2560.1400" timestamp="1627593823514" />
+    <state x="1604" y="34" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1627594831985">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1604" y="34" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400/-1920.360.1536.824@0.0.2560.1400" timestamp="1627594831985" />
+    <state x="1649" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1627595925430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1649" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/-1920.360.1536.824@0.0.2560.1400" timestamp="1627595925430" />
+    <state width="1235" height="400" key="GridCell.Tab.0.bottom" timestamp="1627596942325">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.360.1536.824@0.0.2560.1400" timestamp="1627596942325" />
+    <state width="1235" height="400" key="GridCell.Tab.0.center" timestamp="1627596942325">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="400" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.360.1536.824@0.0.2560.1400" timestamp="1627596942325" />
+    <state width="1235" height="400" key="GridCell.Tab.0.left" timestamp="1627596942325">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="400" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.360.1536.824@0.0.2560.1400" timestamp="1627596942325" />
+    <state width="1235" height="400" key="GridCell.Tab.0.right" timestamp="1627596942325">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="400" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.360.1536.824@0.0.2560.1400" timestamp="1627596942325" />
+    <state x="1731" y="388" width="672" height="677" key="run.anything.popup" timestamp="1627596942346">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1731" y="388" width="672" height="677" key="run.anything.popup/0.0.2560.1400/-1920.360.1536.824@0.0.2560.1400" timestamp="1627596942346" />
+  </component>
+</project>
